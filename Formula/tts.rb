@@ -2,7 +2,7 @@ class Tts < Formula
   desc "Text-to-speech CLI using ElevenLabs API"
   homepage "https://github.com/jtgi/tts"
   url "https://github.com/jtgi/tts/archive/refs/tags/0.0.1.tar.gz"
-  sha256 "d8e61e40f863dde099c984a46684d8c1bd4d08387aa6b8ddbff3a0bf3572e05f"
+  sha256 "6911dca2140289285b1c42fa3f609cef7daa9523390f22bc469bffa5635f5781"
   license "MIT"
 
   def install
